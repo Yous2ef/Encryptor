@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>LOGO\Logo.ico</ApplicationIcon>
+    <NeutralLanguage>ar</NeutralLanguage>
+    <Company>Al Akhdar</Company>
+    <Authors>Youssef Mahmoud</Authors>
+    <AssemblyName>مُشفر</AssemblyName>
+    <RootNamespace>مُشفر</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="LOGO\Logo.ico" />
+  </ItemGroup>
+
+</Project>
